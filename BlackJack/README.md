@@ -9,15 +9,8 @@ A simple command-line Blackjack game implemented in Python. This script deals ca
 ## Requirements
 
 - Python 3.6+
-- `art` package
+- `art.py` 
 
-## Installation
-
-Install the required dependency with pip:
-
-```bash
-pip install art
-```
 
 ## Usage
 
